@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FreeCodeCamp-Project4/static/css/main.dc254f08.css",
+    "main.js": "/FreeCodeCamp-Project4/static/js/main.694c73da.js",
+    "index.html": "/FreeCodeCamp-Project4/index.html",
+    "main.dc254f08.css.map": "/FreeCodeCamp-Project4/static/css/main.dc254f08.css.map",
+    "main.694c73da.js.map": "/FreeCodeCamp-Project4/static/js/main.694c73da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc254f08.css",
+    "static/js/main.694c73da.js"
+  ]
+}
